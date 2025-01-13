@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Bricolage_Grotesque, Geist, Geist_Mono } from "next/font/google";
+import { Bricolage_Grotesque} from "next/font/google";
 import "./globals.css";
 
 const geistSans = Bricolage_Grotesque({
